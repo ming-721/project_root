@@ -1,6 +1,5 @@
 ```
 C:.
-│  tree.txt
 │  
 ├─doc
 │  └─images
